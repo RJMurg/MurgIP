@@ -1,0 +1,15 @@
+{
+  "name": "murgip",
+  "version": "1.0.0",
+  "description": "My dad wanted a simple website that he could CURL that would give him his IP. So here it is :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
